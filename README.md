@@ -1,4 +1,4 @@
-# 🌐 DNS Server Setup with Bind9 (Ubuntu VM Lab)
+# 🛡️ Fail2Ban Setup & Testing Lab (Kali/Ubuntu)
 
 ## 📖 Description
-In this lab, you’ll configure a DNS server (Bind9) on Ubuntu to resolve hostnames inside your lab environment. You’ll create a custom DNS zone (e.g., myvm.local), configure forward/reverse lookups, and test resolution from your VM.
+This lab sets up Fail2Ban to protect your system against brute-force attacks on SSH and Apache. You’ll configure jails, test banning by simulating failed logins/requests, and verify Fail2Ban’s log monitoring.
